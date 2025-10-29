@@ -1,0 +1,16 @@
+======================================================================
+LAGEOS-1 ORBIT PREDICTION ENHANCEMENT - ANALYSIS REPORT
+Artificial Neural Network-Based Machine Learning Approach
+Implementation: OPTION 1 - Temporal Split Strategy
+======================================================================
+
+Date: 2025-10-17 02:30:53
+
+DATASET INFORMATION:
+----------------------------------------------------------------------
+Training samples:     348 (69.9%)
+Validation samples:    75 (15.1%)
+Testing samples:       75 (15.1%)
+Total samples:        498
+
+Generalization Type: Type II (Future Epochs)

@@ -1,0 +1,9 @@
+numpy
+pandas
+scikit-learn
+tensorflow
+
+# first downloaded the tle data from celestrak, but the years didn't match the cpf data online (2005-2023), so downloaded data from Space track website
+# preprocessed the data and stored in a csv 
+# made _netrc for downloading the cpf files directly from the website , instead of doing manually
+# downloaded 2005 data manually
