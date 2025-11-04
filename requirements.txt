@@ -7,3 +7,13 @@ tensorflow
 # preprocessed the data and stored in a csv 
 # made _netrc for downloading the cpf files directly from the website , instead of doing manually
 # downloaded 2005 data manually
+
+
+## 5/11:
+# the data is stored in data.csv and cpf_files folder
+# the final model is ann_train_two.py file
+# the entire final dataset and the results are stored in outputs_final folder
+# === Overall Results ===
+# err_x: MAE=2701.241, RMSE=4740.090
+# err_y: MAE=5481.882, RMSE=6604.528
+# err_z: MAE=225.675, RMSE=237.574

@@ -272,7 +272,7 @@ if __name__ == "__main__":
     CPF_FOLDER = r"C:\Users\Tanvi\Documents\Space_paper\lageos-1\cpf_files"
     
     # Output path for merged CSV
-    OUTPUT_CSV = r"C:\Users\Tanvi\Documents\Space_paper\lageos-1\cpf_truth_merged.csv"
+    OUTPUT_CSV = r"C:\Users\Tanvi\Documents\Space_paper\lageos-1\cpf_truth_merged_final.csv"
     
     # ========================================================================
     # RUN PARSER
