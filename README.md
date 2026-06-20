@@ -4,24 +4,24 @@ A Python-based project that implements an **Artificial Neural Network (ANN)** to
 
 ---
 
-## 🧠 Project Overview
+## Project Overview
 
 This repository is designed to train and evaluate an ANN that predicts paths (or outcomes) based on input data extracted from CPF (Common Path Format) and related files. The model is implemented in Python using standard machine-learning libraries.
 
 ---
 
-## 🚀 Features
+## Features
 
-- 📥 **Data Extraction & Parsing**  
+-  **Data Extraction & Parsing**  
   Scripts to parse CPF data files and extract relevant features.
 
-- 🔄 **Preprocessing**  
+-  **Preprocessing**  
   Clean and prepare data for model training.
 
-- 🤖 **ANN Training**  
+-  **ANN Training**  
   Multiple training scripts to build and train neural network models for path prediction.
 
-- 📊 **Output Prediction**  
+-  **Output Prediction**  
   Generate and save results for evaluation or downstream processing.
 
 ---
@@ -29,9 +29,9 @@ This repository is designed to train and evaluate an ANN that predicts paths (or
 
 ---
 
-## 🛠️ Getting Started
+##  Getting Started
 
-### 📦 Prerequisites
+### Prerequisites
 
 Ensure you have the following installed:
 
@@ -40,7 +40,7 @@ Ensure you have the following installed:
 
 ---
 
-### 📥 Installation
+###  Installation
 
 1. **Clone the repository**
     ```bash
@@ -55,27 +55,28 @@ Ensure you have the following installed:
 
 ---
 
-## 📊 Usage
+##  Usage
 
-### 🧩 1. Preprocess the Data
+### 1. Preprocess the Data
 
 Prepare and clean the raw CPF-extracted data:
 
 ```bash
 python preprocessing.py
+```
 
-###🧠 2. Train the ANN Model
+### 2. Train the ANN Model
 
 You can choose between different ANN training scripts based on configuration or experimentation needs.
 Each script may use different network architectures or training parameters.
 
-###📈 3. Test / Evaluate the Model
+### 3. Test / Evaluate the Model
 
 Run the test script to evaluate the trained model and generate predictions.
 python test.py
 
 
-##📦 Dependencies
+## Dependencies
 
 All required Python libraries are listed in requirements.txt.
 Common dependencies include:
